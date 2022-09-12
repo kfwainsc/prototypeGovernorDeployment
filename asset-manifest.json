@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.334346d1.css",
+    "main.js": "/static/js/main.c33f20fb.js",
+    "static/js/787.d074cd43.chunk.js": "/static/js/787.d074cd43.chunk.js",
+    "static/media/governor.png": "/static/media/governor.106114dda06356442e0a.png",
+    "static/media/governorTotalFrame.png": "/static/media/governorTotalFrame.d47fbb4bcc20d423658c.png",
+    "static/media/governorTotal.png": "/static/media/governorTotal.d0ee37e03ef4a5c9b33e.png",
+    "static/media/digital-7.regular.ttf": "/static/media/digital-7.regular.93911ab167c943140756.ttf",
+    "static/media/transTemp.png": "/static/media/transTemp.95837268f14ae7e004a2.png",
+    "static/media/thermometer.png": "/static/media/thermometer.5cb49dc182262666a503.png",
+    "index.html": "/index.html",
+    "main.334346d1.css.map": "/static/css/main.334346d1.css.map",
+    "main.c33f20fb.js.map": "/static/js/main.c33f20fb.js.map",
+    "787.d074cd43.chunk.js.map": "/static/js/787.d074cd43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334346d1.css",
+    "static/js/main.c33f20fb.js"
+  ]
+}
